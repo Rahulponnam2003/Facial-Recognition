@@ -3,8 +3,6 @@
 ## 📌 Project Overview  
 This project implements a **face recognition pipeline using Principal Component Analysis (PCA)**, also known as the **Eigenfaces method**. The goal is to reduce the dimensionality of facial image data while retaining important identity features, enabling efficient **face reconstruction and recognition**.  
 
-Developed as part of a research project under the guidance of **Prof. [Name]** at **NIT Warangal**.  
-
 ---
 
 ## 🔑 Key Features  
@@ -33,6 +31,4 @@ The workflow followed in this project:
 5. **Reconstruction** → Rebuild test images with varying numbers of eigenfaces (25, 50, 100, …)  
 6. **Recognition & Classification** → Project test individuals into PCA space for recognition  
 
-👉 You can also add a pipeline diagram here for better visualization:  
-```markdown
-![Pipeline Diagram](pipeline.png)
+
